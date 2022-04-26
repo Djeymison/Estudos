@@ -5,6 +5,9 @@ Este repositório tem como objetivo, relatar todo o meu progresso do "zero ao De
 Através do bootcamp "Carrefour Web Developer" fornecido pela DIO em parceria com a empresa Carrefour. Pude aprender no conteúdo de abertura:
 
 • Pensamento computacional, fornecido pela intrutora Juliana Mascarenhas.
+
 • Lógica de programação, fornecido pelo intrutor Denilson Bonatti.
+
 • Introdução ao Git e Github, Fornecido pelo instrutor Otávio Reis.
+
 • Introdução ao SCRUM, Fornecido pelos intrutores Thiago Sano e Diego Pereira.
