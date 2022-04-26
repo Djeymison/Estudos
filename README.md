@@ -2,3 +2,9 @@
 Resumo completo da jornada de estudos até o presente momento.
 
 Este repositório tem como objetivo, relatar todo o meu progresso do "zero ao Dev completo". Uma vez dada inicio ao projeto, haverá o comprometimento de que esse documento será atualizado a medida em que me desenvolvo na area de Desenvolvimento de sistemas. 
+Através do bootcamp "Carrefour Web Developer" fornecido pela DIO em parceria com a empresa Carrefour. Pude aprender no conteúdo de abertura:
+
+• Pensamento computacional, fornecido pela intrutora Juliana Mascarenhas.
+• Lógica de programação, fornecido pelo intrutor Denilson Bonatti.
+• Introdução ao Git e Github, Fornecido pelo instrutor Otávio Reis.
+• Introdução ao SCRUM, Fornecido pelos intrutores Thiago Sano e Diego Pereira.
