@@ -11,3 +11,6 @@ Através do bootcamp "Carrefour Web Developer" fornecido pela DIO em parceria co
 • Introdução ao Git e Github, Fornecido pelo instrutor Otávio Reis.
 
 • Introdução ao SCRUM, Fornecido pelos intrutores Thiago Sano e Diego Pereira.
+
+
+stackoverflow.com Site para pesquisar duvidas
