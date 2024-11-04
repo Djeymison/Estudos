@@ -14,3 +14,6 @@ Através do bootcamp "Carrefour Web Developer" fornecido pela DIO em parceria co
 
 
 stackoverflow.com Site para pesquisar duvidas
+
+
+• Retono a plataforma após motivos pessoais. 
