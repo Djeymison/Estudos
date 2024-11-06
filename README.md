@@ -19,3 +19,4 @@ stackoverflow.com Site para pesquisar duvidas
 • Retono a plataforma após motivos pessoais. 
 
 • Iniciado dia 05/11 o projeto DIO Suzano - Análise de Dados com Power BI
+- Dia 06/11 inicieei projeto de estudos na plataforma DIO
