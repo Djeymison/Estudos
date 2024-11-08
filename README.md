@@ -21,3 +21,4 @@ stackoverflow.com Site para pesquisar duvidas
 • Iniciado dia 05/11 o projeto DIO Suzano - Análise de Dados com Power BI
 - Dia 06/11 iniciei projeto de estudos na plataforma DIO
 - Dia 07/11 analise de possiveis cursos para aprimorar hard skills
+- Dia 08/11 inicado atividades e e consulta sobre artigos para possiveis previsoes de mercado para ADS
