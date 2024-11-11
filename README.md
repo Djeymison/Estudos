@@ -23,3 +23,4 @@ stackoverflow.com Site para pesquisar duvidas
 - Dia 07/11 analise de possiveis cursos para aprimorar hard skills
 - Dia 08/11 inicado atividades e e consulta sobre artigos para possiveis previsoes de mercado para ADS
 - dia 09/11 estou com dificuldades pessoais sobre como manter a rotina de estudos
+- Dia 10/11 ainda mantendo a rotino. Irei buscar informações sobre cursos
