@@ -24,3 +24,4 @@ stackoverflow.com Site para pesquisar duvidas
 - Dia 08/11 inicado atividades e e consulta sobre artigos para possiveis previsoes de mercado para ADS
 - dia 09/11 estou com dificuldades pessoais sobre como manter a rotina de estudos
 - Dia 10/11 ainda mantendo a rotino. Irei buscar informações sobre cursos
+- dIA 11/11 Cada dia mais dificil manter a rotina.  Muito dificil
