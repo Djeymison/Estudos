@@ -22,6 +22,7 @@ stackoverflow.com Site para pesquisar duvidas
 - Dia 06/11 iniciei projeto de estudos na plataforma DIO
 - Dia 07/11 analise de possiveis cursos para aprimorar hard skills
 - Dia 08/11 inicado atividades e e consulta sobre artigos para possiveis previsoes de mercado para ADS
-- dia 09/11 estou com dificuldades pessoais sobre como manter a rotina de estudos
+- Dia 09/11 estou com dificuldades pessoais sobre como manter a rotina de estudos
 - Dia 10/11 ainda mantendo a rotino. Irei buscar informações sobre cursos
-- dIA 11/11 Cada dia mais dificil manter a rotina.  Muito dificil
+- Dia 11/11 Cada dia mais dificil manter a rotina.  Muito dificil
+- Dia 12/11 revisando informações e analisando projetos.
