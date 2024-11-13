@@ -26,3 +26,4 @@ stackoverflow.com Site para pesquisar duvidas
 - Dia 10/11 ainda mantendo a rotino. Irei buscar informações sobre cursos
 - Dia 11/11 Cada dia mais dificil manter a rotina.  Muito dificil
 - Dia 12/11 revisando informações e analisando projetos.
+- Dia 13/11 Finalizado o treinamento Suzano - Análise de Dados com Power BI
