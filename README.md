@@ -27,3 +27,5 @@ stackoverflow.com Site para pesquisar duvidas
 - Dia 11/11 Cada dia mais dificil manter a rotina.  Muito dificil
 - Dia 12/11 revisando informações e analisando projetos.
 - Dia 13/11 Finalizado o treinamento Suzano - Análise de Dados com Power BI
+- Analizado potenciais cursos para agregar e tempo: Santander Bootcamp Cibersegurança #2 inscrição até 17/11/2024; CAIXA - IA Generativa com Microsoft Copilot Inscrição até 02/12/2024;
+  BairesDev - Machine Learning Practitioner inscrição até 22/12/2024.
